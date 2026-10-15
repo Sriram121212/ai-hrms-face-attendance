@@ -6,6 +6,24 @@ Built as a personal project to bridge computer vision engineering experience wit
 
 ---
 
+## Demo
+
+### 🤖 AI Admin Agent — Natural-Language Database Queries
+
+https://github.com/Sriram121212/ai-hrms-face-attendance/assets/admin-chatbot-demo.mp4
+
+> Admin asks questions like *"Who was absent this week?"* or *"Show me pending leaves"* — the agent calls safe, pre-written Python tools (no raw SQL) and returns a natural-language answer.
+
+---
+
+### 💬 Employee HR Policy Chat (RAG)
+
+https://github.com/Sriram121212/ai-hrms-face-attendance/assets/employee-hr-policy-demo.mp4
+
+> Employees ask policy questions (leave rules, working hours, benefits) — answers are grounded exclusively in the uploaded HR policy PDF via RAG (ChromaDB + Groq), with Valkey caching for repeated queries.
+
+---
+
 ## Features
 
 ### Admin Dashboard
